@@ -1270,6 +1270,170 @@ section.lazy-placeholder:after {
   box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
   transition: box-shadow 0.3s;
 }
+.cid-rO8HSDwlhS {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/alexander-tsang-snk5dofhpsq-unsplash-2000x2333.jpg");
+}
+.cid-rO8HSDwlhS .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rO8HSDwlhS .container-table {
+  margin: 0 auto;
+}
+.cid-rO8HSDwlhS .scroll {
+  overflow-x: auto;
+  padding: 0;
+}
+.cid-rO8HSDwlhS .dataTables_wrapper {
+  display: block;
+}
+.cid-rO8HSDwlhS .dataTables_wrapper .search {
+  margin-bottom: .5rem;
+}
+.cid-rO8HSDwlhS .dataTables_wrapper .table {
+  overflow-x: auto;
+}
+.cid-rO8HSDwlhS table {
+  width: 100% !important;
+  margin-top: 6px;
+  border: 1px solid #cccccc;
+  margin-bottom: 0;
+}
+.cid-rO8HSDwlhS table th {
+  border-top: none;
+  transition: all .2s;
+  border-bottom: none;
+}
+.cid-rO8HSDwlhS table th:hover {
+  background: #cccccc;
+  color: #000000;
+}
+.cid-rO8HSDwlhS table td {
+  border-top: 1px solid #cccccc;
+}
+.cid-rO8HSDwlhS table.table {
+  background: #ffffff;
+}
+.cid-rO8HSDwlhS .dataTables_filter {
+  text-align: right;
+  margin-bottom: .5rem;
+}
+.cid-rO8HSDwlhS .dataTables_filter label {
+  display: inline;
+  white-space: normal !important;
+}
+.cid-rO8HSDwlhS .dataTables_filter input {
+  display: inline;
+  width: auto;
+  margin-left: .5rem;
+  border-radius: 100px;
+  padding-left: 1rem;
+}
+.cid-rO8HSDwlhS .dataTables_info {
+  padding-bottom: 1rem;
+  padding-top: 1rem;
+  white-space: normal !important;
+}
+@media (max-width: 992px) {
+  .cid-rO8HSDwlhS .dataTables_filter {
+    text-align: center;
+  }
+}
+@media (max-width: 350px) {
+  .cid-rO8HSDwlhS .dataTables_filter {
+    text-align: center;
+  }
+  .cid-rO8HSDwlhS .dataTables_filter input {
+    width: 100% !important;
+    margin-left: 0 !important;
+  }
+}
+.cid-rO8HSDwlhS .mbr-section-title {
+  color: #ffffff;
+}
+.cid-rO8HoWpXBc {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/zane-lee-ttp7ic34mae-unsplash-2000x2996.jpg");
+}
+.cid-rO8HoWpXBc .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rO8HoWpXBc .container-table {
+  margin: 0 auto;
+}
+.cid-rO8HoWpXBc .scroll {
+  overflow-x: auto;
+  padding: 0;
+}
+.cid-rO8HoWpXBc .dataTables_wrapper {
+  display: block;
+}
+.cid-rO8HoWpXBc .dataTables_wrapper .search {
+  margin-bottom: .5rem;
+}
+.cid-rO8HoWpXBc .dataTables_wrapper .table {
+  overflow-x: auto;
+}
+.cid-rO8HoWpXBc table {
+  width: 100% !important;
+  margin-top: 6px;
+  border: 1px solid #cccccc;
+  margin-bottom: 0;
+}
+.cid-rO8HoWpXBc table th {
+  border-top: none;
+  transition: all .2s;
+  border-bottom: none;
+}
+.cid-rO8HoWpXBc table th:hover {
+  background: #cccccc;
+  color: #000000;
+}
+.cid-rO8HoWpXBc table td {
+  border-top: 1px solid #cccccc;
+}
+.cid-rO8HoWpXBc table.table {
+  background: #ffffff;
+}
+.cid-rO8HoWpXBc .dataTables_filter {
+  text-align: right;
+  margin-bottom: .5rem;
+}
+.cid-rO8HoWpXBc .dataTables_filter label {
+  display: inline;
+  white-space: normal !important;
+}
+.cid-rO8HoWpXBc .dataTables_filter input {
+  display: inline;
+  width: auto;
+  margin-left: .5rem;
+  border-radius: 100px;
+  padding-left: 1rem;
+}
+.cid-rO8HoWpXBc .dataTables_info {
+  padding-bottom: 1rem;
+  padding-top: 1rem;
+  white-space: normal !important;
+}
+@media (max-width: 992px) {
+  .cid-rO8HoWpXBc .dataTables_filter {
+    text-align: center;
+  }
+}
+@media (max-width: 350px) {
+  .cid-rO8HoWpXBc .dataTables_filter {
+    text-align: center;
+  }
+  .cid-rO8HoWpXBc .dataTables_filter input {
+    width: 100% !important;
+    margin-left: 0 !important;
+  }
+}
+.cid-rO8HoWpXBc .mbr-section-title {
+  color: #ffffff;
+}
 .cid-rKP4Dicp53 {
   padding-top: 30px;
   padding-bottom: 30px;
@@ -2635,79 +2799,396 @@ section.lazy-placeholder:after {
 .cid-rMJ70oK05R H1 {
   color: #ffffff;
 }
-.cid-rMOANNM2Gt {
+.cid-rO8mL8VTJi {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/mbr-1920x1279.jpg");
+  background-image: url("../../../assets/images/ave-calvar-ubizzbmgyvu-unsplash-2000x3000.jpg");
 }
-.cid-rMOANNM2Gt .card-box {
-  background-color: #ffffff;
-  padding: 2rem;
+.cid-rO8pExtkE3 {
+  padding-top: 30px;
+  padding-bottom: 0px;
+  background-image: url("../../../assets/images/marvin-ronsdorf-kob3macec68-unsplash-2000x3000.jpg");
 }
-.cid-rMOANNM2Gt h4 {
-  font-weight: 500;
-  margin-bottom: 0;
-  text-align: left;
-}
-.cid-rMOANNM2Gt p {
+.cid-rO8pExtkE3 .mbr-section-subtitle {
   color: #767676;
-  text-align: left;
 }
-.cid-rMOANNM2Gt .card-wrapper {
-  position: relative;
-  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
-  transition: box-shadow 0.3s;
+.cid-rO8pExtkE3 .media-row {
+  display: -webkit-flex;
+  justify-content: center;
+  -webkit-justify-content: center;
 }
-.cid-rMOANNM2Gt .card-wrapper:hover {
-  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
-  transition: box-shadow 0.3s;
+.cid-rO8pExtkE3 .team-item {
+  transition: all .2s;
+  margin-bottom: 2rem;
 }
-.cid-rMOANNM2Gt .card-img {
-  position: absolute;
-  top: 0;
-  left: 0;
+.cid-rO8pExtkE3 .team-item .item-image img {
   width: 100%;
-  overflow: hidden;
 }
-.cid-rMOANNM2Gt .card-title {
-  text-align: center;
+.cid-rO8pExtkE3 .team-item .item-name p {
+  margin-bottom: 0;
 }
-.cid-rMOAO7JwkJ {
+.cid-rO8pExtkE3 .team-item .item-role p {
+  margin-bottom: 0;
+}
+.cid-rO8pExtkE3 .team-item .item-social {
+  display: -webkit-flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  -webkit-flex-wrap: wrap;
+  -webkit-justify-content: center;
+}
+.cid-rO8pExtkE3 .team-item .item-social .socicon {
+  color: #232323;
+  font-size: 17px;
+}
+.cid-rO8pExtkE3 .team-item .item-caption {
+  background: #efefef;
+}
+.cid-rO8pFdWPb2 {
+  padding-top: 30px;
+  padding-bottom: 0px;
+  background-image: url("../../../assets/images/zhenyu-luo-me-invr3jg8-unsplash-2000x3000.jpg");
+}
+.cid-rO8pFdWPb2 .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rO8pFdWPb2 .media-row {
+  display: -webkit-flex;
+  justify-content: center;
+  -webkit-justify-content: center;
+}
+.cid-rO8pFdWPb2 .team-item {
+  transition: all .2s;
+  margin-bottom: 2rem;
+}
+.cid-rO8pFdWPb2 .team-item .item-image img {
+  width: 100%;
+}
+.cid-rO8pFdWPb2 .team-item .item-name p {
+  margin-bottom: 0;
+}
+.cid-rO8pFdWPb2 .team-item .item-role p {
+  margin-bottom: 0;
+}
+.cid-rO8pFdWPb2 .team-item .item-social {
+  display: -webkit-flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  -webkit-flex-wrap: wrap;
+  -webkit-justify-content: center;
+}
+.cid-rO8pFdWPb2 .team-item .item-social .socicon {
+  color: #232323;
+  font-size: 17px;
+}
+.cid-rO8pFdWPb2 .team-item .item-caption {
+  background: #efefef;
+}
+.cid-rO8mLsmIXW {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/mbr-1920x1079.jpg");
+  background-image: url("../../../assets/images/mohammad-ali-berenji-vcnnrujvwzm-unsplash-2000x2999.jpg");
 }
-.cid-rMOAO7JwkJ .card-box {
-  background-color: #ffffff;
-  padding: 2rem;
+.cid-rO8pFTyLRE {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/jack-nagz-al4pftxz8s8-unsplash-2000x1334.jpg");
 }
-.cid-rMOAO7JwkJ h4 {
-  font-weight: 500;
-  margin-bottom: 0;
-  text-align: left;
-}
-.cid-rMOAO7JwkJ p {
+.cid-rO8pFTyLRE .mbr-section-subtitle {
   color: #767676;
-  text-align: left;
 }
-.cid-rMOAO7JwkJ .card-wrapper {
-  position: relative;
-  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
-  transition: box-shadow 0.3s;
+.cid-rO8pFTyLRE .media-row {
+  display: -webkit-flex;
+  justify-content: center;
+  -webkit-justify-content: center;
 }
-.cid-rMOAO7JwkJ .card-wrapper:hover {
-  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
-  transition: box-shadow 0.3s;
+.cid-rO8pFTyLRE .team-item {
+  transition: all .2s;
+  margin-bottom: 2rem;
 }
-.cid-rMOAO7JwkJ .card-img {
-  position: absolute;
-  top: 0;
-  left: 0;
+.cid-rO8pFTyLRE .team-item .item-image img {
   width: 100%;
-  overflow: hidden;
 }
-.cid-rMOAO7JwkJ .card-title {
-  text-align: center;
+.cid-rO8pFTyLRE .team-item .item-name p {
+  margin-bottom: 0;
+}
+.cid-rO8pFTyLRE .team-item .item-role p {
+  margin-bottom: 0;
+}
+.cid-rO8pFTyLRE .team-item .item-social {
+  display: -webkit-flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  -webkit-flex-wrap: wrap;
+  -webkit-justify-content: center;
+}
+.cid-rO8pFTyLRE .team-item .item-social .socicon {
+  color: #232323;
+  font-size: 17px;
+}
+.cid-rO8pFTyLRE .team-item .item-caption {
+  background: #efefef;
+}
+.cid-rO8pFTyLRE H2 {
+  color: #ffffff;
+}
+.cid-rO8pGrynTp {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/hendrik-kespohl-kpzjn43dopg-unsplash-2000x1333.jpg");
+}
+.cid-rO8pGrynTp .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rO8pGrynTp .media-row {
+  display: -webkit-flex;
+  justify-content: center;
+  -webkit-justify-content: center;
+}
+.cid-rO8pGrynTp .team-item {
+  transition: all .2s;
+  margin-bottom: 2rem;
+}
+.cid-rO8pGrynTp .team-item .item-image img {
+  width: 100%;
+}
+.cid-rO8pGrynTp .team-item .item-name p {
+  margin-bottom: 0;
+}
+.cid-rO8pGrynTp .team-item .item-role p {
+  margin-bottom: 0;
+}
+.cid-rO8pGrynTp .team-item .item-social {
+  display: -webkit-flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  -webkit-flex-wrap: wrap;
+  -webkit-justify-content: center;
+}
+.cid-rO8pGrynTp .team-item .item-social .socicon {
+  color: #232323;
+  font-size: 17px;
+}
+.cid-rO8pGrynTp .team-item .item-caption {
+  background: #efefef;
+}
+.cid-rO8pGrynTp H2 {
+  color: #ffffff;
+}
+.cid-rO8pGYYerd {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/jakub-kriz-quqe3cr6z14-unsplash-2000x3000.jpg");
+}
+.cid-rO8pGYYerd .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rO8pGYYerd .media-row {
+  display: -webkit-flex;
+  justify-content: center;
+  -webkit-justify-content: center;
+}
+.cid-rO8pGYYerd .team-item {
+  transition: all .2s;
+  margin-bottom: 2rem;
+}
+.cid-rO8pGYYerd .team-item .item-image img {
+  width: 100%;
+}
+.cid-rO8pGYYerd .team-item .item-name p {
+  margin-bottom: 0;
+}
+.cid-rO8pGYYerd .team-item .item-role p {
+  margin-bottom: 0;
+}
+.cid-rO8pGYYerd .team-item .item-social {
+  display: -webkit-flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  -webkit-flex-wrap: wrap;
+  -webkit-justify-content: center;
+}
+.cid-rO8pGYYerd .team-item .item-social .socicon {
+  color: #232323;
+  font-size: 17px;
+}
+.cid-rO8pGYYerd .team-item .item-caption {
+  background: #efefef;
+}
+.cid-rO8pGYYerd H2 {
+  color: #ffffff;
+}
+.cid-rO8pHq4H8U {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/erik-mclean-1e-y2tfohku-unsplash-2000x3000.jpg");
+}
+.cid-rO8pHq4H8U .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rO8pHq4H8U .media-row {
+  display: -webkit-flex;
+  justify-content: center;
+  -webkit-justify-content: center;
+}
+.cid-rO8pHq4H8U .team-item {
+  transition: all .2s;
+  margin-bottom: 2rem;
+}
+.cid-rO8pHq4H8U .team-item .item-image img {
+  width: 100%;
+}
+.cid-rO8pHq4H8U .team-item .item-name p {
+  margin-bottom: 0;
+}
+.cid-rO8pHq4H8U .team-item .item-role p {
+  margin-bottom: 0;
+}
+.cid-rO8pHq4H8U .team-item .item-social {
+  display: -webkit-flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  -webkit-flex-wrap: wrap;
+  -webkit-justify-content: center;
+}
+.cid-rO8pHq4H8U .team-item .item-social .socicon {
+  color: #232323;
+  font-size: 17px;
+}
+.cid-rO8pHq4H8U .team-item .item-caption {
+  background: #efefef;
+}
+.cid-rO8pHq4H8U H2 {
+  color: #ffffff;
+}
+.cid-rO8pHLICdu {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/jonny-james-3no88nsvk88-unsplash-2000x1333.jpg");
+}
+.cid-rO8pHLICdu .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rO8pHLICdu .media-row {
+  display: -webkit-flex;
+  justify-content: center;
+  -webkit-justify-content: center;
+}
+.cid-rO8pHLICdu .team-item {
+  transition: all .2s;
+  margin-bottom: 2rem;
+}
+.cid-rO8pHLICdu .team-item .item-image img {
+  width: 100%;
+}
+.cid-rO8pHLICdu .team-item .item-name p {
+  margin-bottom: 0;
+}
+.cid-rO8pHLICdu .team-item .item-role p {
+  margin-bottom: 0;
+}
+.cid-rO8pHLICdu .team-item .item-social {
+  display: -webkit-flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  -webkit-flex-wrap: wrap;
+  -webkit-justify-content: center;
+}
+.cid-rO8pHLICdu .team-item .item-social .socicon {
+  color: #232323;
+  font-size: 17px;
+}
+.cid-rO8pHLICdu .team-item .item-caption {
+  background: #efefef;
+}
+.cid-rO8pHLICdu H2 {
+  color: #ffffff;
+}
+.cid-rO8pI8aarH {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/nika-akin-urszst4mklc-unsplash-2000x3000.jpg");
+}
+.cid-rO8pI8aarH .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rO8pI8aarH .media-row {
+  display: -webkit-flex;
+  justify-content: center;
+  -webkit-justify-content: center;
+}
+.cid-rO8pI8aarH .team-item {
+  transition: all .2s;
+  margin-bottom: 2rem;
+}
+.cid-rO8pI8aarH .team-item .item-image img {
+  width: 100%;
+}
+.cid-rO8pI8aarH .team-item .item-name p {
+  margin-bottom: 0;
+}
+.cid-rO8pI8aarH .team-item .item-role p {
+  margin-bottom: 0;
+}
+.cid-rO8pI8aarH .team-item .item-social {
+  display: -webkit-flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  -webkit-flex-wrap: wrap;
+  -webkit-justify-content: center;
+}
+.cid-rO8pI8aarH .team-item .item-social .socicon {
+  color: #232323;
+  font-size: 17px;
+}
+.cid-rO8pI8aarH .team-item .item-caption {
+  background: #efefef;
+}
+.cid-rO8pI8aarH H2 {
+  color: #ffffff;
+}
+.cid-rO8pIrqP0q {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/aleksey-kuprikov-to2tyrsoo-unsplash-2000x1333.jpg");
+}
+.cid-rO8pIrqP0q .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rO8pIrqP0q .media-row {
+  display: -webkit-flex;
+  justify-content: center;
+  -webkit-justify-content: center;
+}
+.cid-rO8pIrqP0q .team-item {
+  transition: all .2s;
+  margin-bottom: 2rem;
+}
+.cid-rO8pIrqP0q .team-item .item-image img {
+  width: 100%;
+}
+.cid-rO8pIrqP0q .team-item .item-name p {
+  margin-bottom: 0;
+}
+.cid-rO8pIrqP0q .team-item .item-role p {
+  margin-bottom: 0;
+}
+.cid-rO8pIrqP0q .team-item .item-social {
+  display: -webkit-flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  -webkit-flex-wrap: wrap;
+  -webkit-justify-content: center;
+}
+.cid-rO8pIrqP0q .team-item .item-social .socicon {
+  color: #232323;
+  font-size: 17px;
+}
+.cid-rO8pIrqP0q .team-item .item-caption {
+  background: #efefef;
+}
+.cid-rO8pIrqP0q H2 {
+  color: #ffffff;
 }
 .cid-rKP4Dicp53 {
   padding-top: 30px;
